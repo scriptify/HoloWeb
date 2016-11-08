@@ -1,0 +1,30 @@
+{
+  "name": "HoloWeb",
+  "version": "0.0.1",
+  "description": "Holograms everywhere!",
+  "main": "build/bundle.js",
+  "author": "scriptify <maximilian.torggler@tuta.io>",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-core": "*",
+    "babel-loader": "*",
+    "babel-plugin-transform-async-to-generator": "*",
+    "babel-plugin-transform-async-to-module-method": "*",
+    "babel-plugin-transform-class-properties": "*",
+    "babel-plugin-transform-decorators-legacy": "*",
+    "babel-plugin-transform-object-rest-spread": "*",
+    "babel-plugin-transform-runtime": "*",
+    "babel-polyfill": "*",
+    "babel-preset-es2015": "*",
+    "css-loader": "*",
+    "image-webpack-loader": "*",
+    "npm-install-webpack-plugin": "*",
+    "postcss-cssnext": "*",
+    "postcss-loader": "*",
+    "style-loader": "*",
+    "webpack": "*",
+    "webpack-dev-server": "*",
+    "webpack-merge": "*",
+    "file-loader": "*"
+  }
+}
