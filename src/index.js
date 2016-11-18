@@ -1,7 +1,5 @@
 import './css/holo-view.css';
-import setMarkup, { setSize } from './implementations/vanilla';
-import on from './events';
-import { PRIMARY_ACTION, SECONDARY_ACTION, RESIZE_BIGGER, RESIZE_SMALLER } from './events';
+export * from './events';
 
 const classNames = {
   holoContainer: 'holo-container',
@@ -13,6 +11,3 @@ const classNames = {
 };
 
 export default classNames;
-/******** Testing Vanilla JS implementation
-setMarkup(`<div class="test-content" style="color: #FFF; font-size: 100%;">Hello World!</div>`, document.querySelector('#app'));
-*/
