@@ -22,7 +22,7 @@ const COMMON_CONFIGURATION = {
     path: PATHS.build,
     filename: 'bundle.js',
     libraryTarget: 'umd',
-    library: 'HoloWeb'
+    library: 'holoweb-vanillajs'
   },
   module: {
     loaders: [

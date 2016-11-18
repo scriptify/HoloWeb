@@ -1,7 +1,7 @@
 {
-  "name": "HoloWeb",
+  "name": "holoweb-vanillajs",
   "version": "0.0.1",
-  "description": "Holograms everywhere!",
+  "description": "An implementation of HoloWeb in vanillajs. No external libraries in use!",
   "main": "build/bundle.js",
   "author": "scriptify <maximilian.torggler@tuta.io>",
   "license": "MIT",
