@@ -5,6 +5,10 @@
   "main": "build/bundle.js",
   "author": "scriptify <maximilian.torggler@tuta.io>",
   "license": "MIT",
+  "scripts": {
+    "start:dev": "webpack-dev-server",
+    "start:prod": "webpack"
+  },
   "devDependencies": {
     "babel-core": "*",
     "babel-loader": "*",
