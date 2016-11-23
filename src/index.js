@@ -88,6 +88,7 @@ export const setSize = (width, height) => {
 
   allContainer.forEach(container => {
     container.style.width = height + 'px';
+    container.style.height = width + 'px';
   });
 
 };
