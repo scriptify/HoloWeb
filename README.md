@@ -2,7 +2,7 @@
 
 This project aims to bring Holograms online: __Easy to use for everyone__ + __developer-friendly__.
 
-A user should be able to display a hologram application on every device - be it a smartphone, a tablet, a laptop, an office pc or even a Raspberry PI. The only thing needed is a webbrowser - even watches run browsers nowadays.
+A user should be able to display a hologram application on every device - be it a smartphone, a tablet, a laptop, an office pc or even a Raspberry PI. The only thing needed is a webbrowser, and, well, some plastic - even watches run browsers nowadays.
 
 For a better impressione, have a look at those images!
 
