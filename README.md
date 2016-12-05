@@ -4,6 +4,16 @@ This project aims to bring Holograms online: __Easy to use for everyone__ + __de
 
 A user should be able to display a hologram application on every device - be it a smartphone, a tablet, a laptop, an office pc or even a Raspberry PI. The only thing needed is a webbrowser - even watches run browsers nowadays.
 
+For a better impressione, have a look at those images!
+
+__Live HoloWeb:__
+![live](doc/live.jpg "HoloWeb live - with a common PC-display and a not too fancy pyramide")
+
+
+__Meanwhile at the display:__
+![hClock](doc/animation.gif "HoloWeb in action - hClock")
+
+
 ## How to use the Web of Holograms
 1. You need a pyramide which consists of a semi-transparent material, e.g. plexiglass.
 You can easily make one yourself or buy one in the internet. Here's a link to a good DIY tutorial:
