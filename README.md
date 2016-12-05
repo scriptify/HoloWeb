@@ -7,6 +7,7 @@ A user should be able to display a hologram application on every device - be it 
 ## How to use the Web of Holograms
 1. You need a pyramide which consists of a semi-transparent material, e.g. plexiglass.
 You can easily make one yourself or buy one in the internet. Here's a link to a good DIY tutorial:
+https://diyhacking.com/diy-hologram/
 
 2. A device with an installed browser and a display. To interact with it, a mouse and a keyboard need to be connected to the device.
 
