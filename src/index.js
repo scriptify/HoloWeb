@@ -1,4 +1,4 @@
-import classNames, { holoView, side1, side2, side3, side4, getCurrentSize, persistSize, RESIZE_BIGGER, RESIZE_SMALLER, on } from 'holoweb';
+import classNames, { holoView, side1, side2, side3, side4, getCurrentSize, persistSize, RESIZE_BIGGER, RESIZE_SMALLER, on } from './holoweb';
 
 const { height, width } = getCurrentSize();
 let currentHeight = parseFloat(height);
@@ -47,6 +47,7 @@ const setMarkup = (content = '', element) => {
 
 
 export default setMarkup;
+export * from 'holoweb';
 
 export const setSize = (width, height) => {
   // Pixel
