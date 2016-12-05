@@ -100,6 +100,8 @@ Here's a list of all exports of the module and how to use them. Sorted by import
 ### Implementation for other frameworks/libraries
 Currently, their are no other implementations available. But you are free to write one, if you want (I currently don't have enough time, but if there's more interest in this module, I'm going to write a React-implementation).
 
+I also didn't write any other implementations, because I realized this project as a school project, and I wanted to use just VanillaJS. Of course, an implementation in e.g. React, Inferno, vue.js, ... would be way better and more efficient (also because of application structure, state managment etc.). Of course it's possible to write maintainable code with this module as-is, but all the advantages offered by libraries/frameworks can't be used. But, how I already said before, it should be possible to implement a library-/framework-specific implementation. And if you did, make a pull request!
+
 ## Example
 I developed an example app for the HoloWeb. It's a simple clock and not fully finished, I will finish it when I have time for it. But it's good enough to demonstrate this module for now :smile:
 
