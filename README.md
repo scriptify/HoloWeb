@@ -104,3 +104,7 @@ Currently, their are no other implementations available. But you are free to wri
 I developed an example app for the HoloWeb. It's a simple clock and not fully finished, I will finish it when I have time for it. But it's good enough to demonstrate this module for now :smile:
 
 It's hosted on Github pages:
+- [scriptify.github.io](http://scriptify.github.io/hClock)
+
+And here the according repository:
+-[https://github.com/scriptify/hClock](https://github.com/scriptify/hClock)
