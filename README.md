@@ -7,10 +7,12 @@ A user should be able to display a hologram application on every device - be it 
 For a better impressione, have a look at those images!
 
 __Live HoloWeb:__
+
 ![live](doc/live.jpg "HoloWeb live - with a common PC-display and a not too fancy pyramide")
 
 
 __Meanwhile on the display:__
+
 ![hClock](doc/hclock.png "HoloWeb in action - hClock")
 
 
