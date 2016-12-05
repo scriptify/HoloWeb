@@ -10,8 +10,8 @@ __Live HoloWeb:__
 ![live](doc/live.jpg "HoloWeb live - with a common PC-display and a not too fancy pyramide")
 
 
-__Meanwhile at the display:__
-![hClock](doc/animation.gif "HoloWeb in action - hClock")
+__Meanwhile on the display:__
+![hClock](doc/hclock.png "HoloWeb in action - hClock")
 
 
 ## How to use the Web of Holograms
