@@ -47,7 +47,7 @@ const setMarkup = (content = '', element) => {
 
 
 export default setMarkup;
-export * from 'holoweb';
+export * from './holoweb';
 
 export const setSize = (width, height) => {
   // Pixel
