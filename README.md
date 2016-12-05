@@ -107,4 +107,4 @@ It's hosted on Github pages:
 - [scriptify.github.io](http://scriptify.github.io/hClock)
 
 And here the according repository:
--[https://github.com/scriptify/hClock](https://github.com/scriptify/hClock)
+- [https://github.com/scriptify/hClock](https://github.com/scriptify/hClock)
